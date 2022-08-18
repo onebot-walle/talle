@@ -1,3 +1,3 @@
 # walle-ts
 
-OneBot Walle modle in typescript
+OneBot Walle model in typescript
